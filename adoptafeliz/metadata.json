@@ -1,0 +1,6 @@
+{
+  "name": "AdoptaFeliz - Plataforma de Adopción y Tienda Solidaria",
+  "description": "Plataforma moderna y responsiva de adopción responsable de mascotas, servicios veterinarios y tienda de suministros, conectada con base de datos MySQL/MariaDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
